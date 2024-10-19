@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-In 2021, I received a Bachelor of Arts from Tianjin University, with a focus on language and linguistics, and in 2024 a Master of Arts in Language Technology at Uppsala University. My research focuses on a variety of fields in the context of NLP, including **Information Retrieval**, **Machine Translation**, and **Multilingual **
+In 2021, I received a Bachelor of Arts from Tianjin University, with a focus on language and linguistics, and in 2024 a Master of Arts in Language Technology at Uppsala University. My research focuses on multilingual NLP, and I have published two papers in this field, supervised by Joakim Nivre at Uppsala University.
 
 A data-driven personal website
 ======24
