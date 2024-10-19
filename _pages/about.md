@@ -13,6 +13,7 @@ In 2021, I received a Bachelor of Arts from Tianjin University, with a focus on 
 
 
 Besides multilingual NLP, I am also interested in other NLP tasks, such as **Information Retrieval**, **Machine Translation**, and **Token Classification tasks like Named Entity Recognition**. I have done some course and hobby projects in the above themes.
+# Publications
 
 A data-driven personal website
 ======24
