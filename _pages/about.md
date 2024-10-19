@@ -17,6 +17,7 @@ Besides multilingual NLP, I am also interested in other NLP tasks, such as **Inf
 - [RDproj at SemEval-2024 Task 4: An Ensemble Learning Approach for Multilingual Detection of Persuasion Techniques in Memes](https://aclanthology.org/2024.semeval-1.28/)
 - [A Cross-Linguistic Study of Functions and Strategies in Multilingual Language Models](http://www.diva-portal.org/smash/record.jsf?dswid=-8451&pid=diva2%3A1905654&c=1&searchType=SIMPLE&language=en&query=Yuhang+Zhu&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=undergraduate)
 
+#Projects
 
 A data-driven personal website
 ======24
