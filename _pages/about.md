@@ -10,6 +10,8 @@ redirect_from:
 In 2021, I received a Bachelor of Arts from Tianjin University, with a focus on language and linguistics, and in 2024 a Master of Arts in Language Technology at Uppsala University. My research focuses on multilingual NLP, and I have finished two projects in this field, supervised by [Joakim Nivre](https://www.uu.se/en/contact-and-organisation/staff?query=N5-800) at Uppsala University in two questions:
 - How can multilingual models be applied to benefit lower-resource languages in downstream tasks?
 - How do multilingual models represent languages?
+
+
 Besides multilingual NLP, I am also interested in other NLP tasks, such as **Information Retrieval**, **Machine Translation**, and **Token Classification tasks like Named Entity Recognition**. I have done some course and hobby projects in the above themes.
 
 A data-driven personal website
