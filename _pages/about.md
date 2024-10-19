@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yuhang Zhu"
+title: "Background"
 author_profile: true
 redirect_from: 
   - /about/
