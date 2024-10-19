@@ -15,7 +15,9 @@ In 2021, I received a Bachelor of Arts from Tianjin University, with a focus on 
 Besides multilingual NLP, I am also interested in other NLP tasks, such as **Information Retrieval**, **Machine Translation**, and **Token Classification tasks like Named Entity Recognition**. I have done some course and hobby projects in the above themes.
 # Publications
 - [RDproj at SemEval-2024 Task 4: An Ensemble Learning Approach for Multilingual Detection of Persuasion Techniques in Memes](https://aclanthology.org/2024.semeval-1.28/)
-- 
+- [A Cross-Linguistic Study of Functions and Strategies in Multilingual Language Models](http://www.diva-portal.org/smash/record.jsf?dswid=-8451&pid=diva2%3A1905654&c=1&searchType=SIMPLE&language=en&query=Yuhang+Zhu&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=undergraduate)
+
+
 A data-driven personal website
 ======24
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to trasnsform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
