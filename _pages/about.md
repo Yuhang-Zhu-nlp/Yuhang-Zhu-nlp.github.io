@@ -18,6 +18,10 @@ Besides multilingual NLP, I am also interested in other NLP tasks, such as **Inf
 - [A Cross-Linguistic Study of Functions and Strategies in Multilingual Language Models](http://www.diva-portal.org/smash/record.jsf?dswid=-8451&pid=diva2%3A1905654&c=1&searchType=SIMPLE&language=en&query=Yuhang+Zhu&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=undergraduate)
 
 # Projects
+- Machine Translation from Swiss German sign language to German at wmt-slt 2023,
+- A species information retrieval system,
+- Multilingual persuasion detection in memes at Semeval-2024 task 4
+- 
 
 A data-driven personal website
 ======24
